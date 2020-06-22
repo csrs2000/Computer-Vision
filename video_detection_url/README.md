@@ -1,6 +1,8 @@
 # video Detection with ImageAI
 
-
+## How it works?
+we take the url of any video and paste it in the code,now using open cv and streamlink videos are read frame by frame.now each frame is applied object detection and the output image is appended to a list.after appending all the images,each image from the list is taken and written into a video file to create a output video with detected objects.
+simultaneously each detected objects image is created in a seperate folder
 ## How to use?
 1. download this repository:
 

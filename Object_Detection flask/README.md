@@ -8,7 +8,7 @@ A minimalistic web application using Flask and ImageAI to detect objects in an i
 ```
 2. Create a python virtual environment and install the modules in _requirements.txt_
 
-3.  download and save the yolo model file there from this [link](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5) to model folder
+3. create a folder named 'models' and then download and save the yolo model file there from this [link](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5) to models folder
 
 3. Run the app while the environment is active:
 ```

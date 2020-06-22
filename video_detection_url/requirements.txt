@@ -1,0 +1,13 @@
+numpy
+scipy
+opencv-python
+flask
+Flask-Uploads
+flask-caching
+pillow
+matplotlib
+h5py
+tensorflow
+keras
+imageai
+streamlink

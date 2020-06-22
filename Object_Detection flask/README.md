@@ -17,7 +17,7 @@ in this app you will get a server link click on that link to go to the api
 ### main page:
 ![](static/images/screenshot1.jpg)
 ### result page:
-![](static/images/screenshot2.jpg)
+![](static/images/screenshot3.jpg)
 
 
 

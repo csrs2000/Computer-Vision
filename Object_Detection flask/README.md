@@ -17,8 +17,7 @@ python obj_detect.py
 in this app you will get a server link click on that link to go to the api
 ## Highlights from the app
 
-### Landing page:
-![](static/images/result_imgs/detected.jpg)
+
 
 ### Image uploaded:
 ![](static/images/traffic.jpg)

@@ -14,8 +14,10 @@ python obj_detect.py
 ```
 in this app you will get a server link click on that link to go to the api
 ## Highlights from the app
+### main page:
+![](static/images/screenshot1.jpg)
 ### result page:
-![](static/images/traffic.jpg)
+![](static/images/screenshot2.jpg)
 
 
 

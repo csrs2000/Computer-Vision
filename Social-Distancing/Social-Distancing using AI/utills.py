@@ -6,14 +6,7 @@ calculate distance between humans, calculate width and height scale ratio for bi
 and calculates number of humans at risk, low risk, no risk according to closeness.
 '''
 
-__title__           = "utills.py"
-__Version__         = "1.0"
-__copyright__       = "Copyright 2020 , Social Distancing AI"
-__license__         = "MIT"
-__author__          = "Deepak Birla"
-__email__           = "birla.deepak26@gmail.com"
-__date__            = "2020/05/29"
-__python_version__  = "3.5.2"
+
 
 # imports
 import cv2
